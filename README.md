@@ -29,5 +29,7 @@ pip install -r requirements.txt
 
 streamlit run dashboard.py
 
+cohere API- nidVfcm5xYEyW8etrREYrKmXjcdD65sCGVhxRJOl
+
 
 
