@@ -1,0 +1,8 @@
+[core]
+    remote = test
+['remote "customer-feedback-analysis"']
+    url = ../notebooks/data/relations_dev_train.json
+['remote "train"']
+    url = gdrive://17dCM83kiR1NzodIls9rPJU4qk0Djtpcy
+['remote "test"']
+    url = gdrive://17dCM83kiR1NzodIls9rPJU4qk0Djtpcy
