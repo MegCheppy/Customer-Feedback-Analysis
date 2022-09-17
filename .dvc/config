@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+    autostage = true
+['remote "myremote"']
+    url = gdrive://17dCM83kiR1NzodIls9rPJU4qk0Djtpcy
+['remote "customer-feedback-analysis"']
+    url = ../notebooks/data/relations_dev_train.json
